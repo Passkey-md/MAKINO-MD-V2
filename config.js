@@ -53,7 +53,7 @@ global.sessionName = "session";                          //Do not change.
 
 //
 global.prefa = ["/"];
-//process.env.PREFIX || "⚡";// Prefix                                 //Default prefix here.
+//process.env.PREFIX || "/";// Prefix                                 //Default prefix here.
 global.openAiAPI = "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";
 
 
